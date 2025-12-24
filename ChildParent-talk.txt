@@ -1,3 +1,5 @@
 Aww-yon-001(Child) : What is 2+2 ?
+M-Ayan-001(Parent) : It is 4
 
 Aww-yon-001(Child) : What is 10*2 ?
+M-Ayan-001(Parent) : It is 20
